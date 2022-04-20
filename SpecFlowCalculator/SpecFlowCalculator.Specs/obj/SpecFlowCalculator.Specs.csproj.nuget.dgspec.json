@@ -1,0 +1,182 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Nam\\SpecFlow\\SpecFlowCalculator\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs.csproj": {}
+  },
+  "projects": {
+    "D:\\Nam\\SpecFlow\\SpecFlowCalculator\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Nam\\SpecFlow\\SpecFlowCalculator\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs.csproj",
+        "projectName": "SpecFlowCalculator.Specs",
+        "projectPath": "D:\\Nam\\SpecFlow\\SpecFlowCalculator\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs.csproj",
+        "packagesPath": "C:\\Users\\phoangnam\\.nuget\\packages\\",
+        "outputPath": "D:\\Nam\\SpecFlow\\SpecFlowCalculator\\SpecFlowCalculator.Specs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\phoangnam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Nam\\SpecFlow\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj": {
+                "projectPath": "D:\\Nam\\SpecFlow\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[100.0.4896.6000, )"
+            },
+            "SolidToken.SpecFlow.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.9.3-preview.2, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.69, )"
+            },
+            "SpecFlow.Assist.Dynamic": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "SpecFlow.ExternalData": {
+              "target": "Package",
+              "version": "[3.9.69, )"
+            },
+            "SpecFlow.Plus.Excel": {
+              "target": "Package",
+              "version": "[1.7.3, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.9.57, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.9.69, )"
+            },
+            "SpecFlow.xUnit": {
+              "target": "Package",
+              "version": "[3.9.69, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Nam\\SpecFlow\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Nam\\SpecFlow\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
+        "projectName": "SpecFlowCalculator",
+        "projectPath": "D:\\Nam\\SpecFlow\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
+        "packagesPath": "C:\\Users\\phoangnam\\.nuget\\packages\\",
+        "outputPath": "D:\\Nam\\SpecFlow\\SpecFlowCalculator\\SpecFlowCalculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\phoangnam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

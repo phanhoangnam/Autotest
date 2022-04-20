@@ -1,0 +1,11 @@
+D:\Nam\SpecFlow\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net5.0\SpecFlowCalculator.deps.json
+D:\Nam\SpecFlow\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net5.0\SpecFlowCalculator.dll
+D:\Nam\SpecFlow\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net5.0\ref\SpecFlowCalculator.dll
+D:\Nam\SpecFlow\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net5.0\SpecFlowCalculator.pdb
+D:\Nam\SpecFlow\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\SpecFlowCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam\SpecFlow\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\SpecFlowCalculator.AssemblyInfoInputs.cache
+D:\Nam\SpecFlow\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\SpecFlowCalculator.AssemblyInfo.cs
+D:\Nam\SpecFlow\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\SpecFlowCalculator.csproj.CoreCompileInputs.cache
+D:\Nam\SpecFlow\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\SpecFlowCalculator.dll
+D:\Nam\SpecFlow\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\ref\SpecFlowCalculator.dll
+D:\Nam\SpecFlow\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net5.0\SpecFlowCalculator.pdb
